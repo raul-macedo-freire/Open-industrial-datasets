@@ -11,15 +11,24 @@ A dataset of more than 19.400 X-ray images for the development, testing and eval
 
 http://dmery.ing.puc.cl/index.php/material/gdxray/
 
-## Oil & Gas equipment
-### Turbomachinery
+## Oil & Gas
+### equipment
+#### Turbomachinery
 https://github.com/siemens/industrialbenchmark 
 
 - [paper](https://www.openml.org/d/23383)
-### Boilers
+
+#### Boilers
 https://www.openml.org/d/41170 (only the `.arff` file format is working at the moment) 
 
  - [paper](https://ieeexplore.ieee.org/ielx7/6287639/8274985/08501917.pdf?tp=&arnumber=8501917&isnumber=8274985)
+### Maintenance
+#### 3W
+https://github.com/petrobras/3W/tree/main
+
+A large dataset from Petrobras, Brazil's largest Oil & Gas company, containing a set of operational time series data with eight classified undesired events from real operations. It also includes time series from normal operating conditions. Simulated data is provided as well, along with a new approach to data gathering entitled “hand-drawn,” which was created by experts in the field.
+
+- [paper](https://www.sciencedirect.com/science/article/pii/S0920410519306357)
 
 ## Secure Water Treatment (SWaT) 
 https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/
